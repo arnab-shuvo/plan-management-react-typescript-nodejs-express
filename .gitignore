@@ -1,0 +1,23 @@
+
+node_modules
+build/
+.bower-*/
+bower_components
+coverage
+*.env
+.env.development
+.env.production
+
+# General
+# =======
+*.log
+dist
+bundles
+
+uploads
+
+# Editors
+# =======
+.idea
+.vscode
+*.js
